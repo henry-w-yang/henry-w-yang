@@ -1,7 +1,7 @@
 ![logo](https://github.com/henry-w-yang/Henry.Yang/blob/main/bg.jpg)
 # Henry.Yang<h1 align="center">Hi 👋, I'm Henry</h1>
 <h3 align="center">A passionate C#,Java,Python developer from VietNam</h3>
-<img align="right" alt="Coding" with="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWEzYmVkNWJkYmM2NGFjZTMxMTZjNjQ3NmFkNzRiMjEzMjNiOWM1NSZjdD1n/g3ZlHx1iqhCOCcY3p2/giphy.gif">
+<img align="right" alt="Coding" with="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHV0Y3hydjVzdm1waTExMGFnM2M1MWlvdjN2Zm50enoxZmJ0a2I5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=henry-w-yang&label=Profile%20views&color=0e75b6&style=flat" alt="henry-w-yang" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/henry-w-yang](https://github.com/henry-w-yang)
